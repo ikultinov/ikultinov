@@ -1,16 +1,30 @@
-### Hi there 👋
+## Привет! ##
 
-<!--
-**ikultinov/ikultinov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я **Илья Культинов**, разработчик на python.
 
-Here are some ideas to get you started:
+## Мой стек: ## 
+ - Python, PostgreSQL, Git, Docker, Docker-compose, Linux, Windows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Вот, что я умею ##
+- Django, drf, docker, github actions, shell (https://github.com/netology-code/netomerch-backend)
+
+- FastAPI, Postgresql, Docker, Docker-compose (https://github.com/mikepro-alfamail-ru/flydata)
+
+- Django, drf (https://github.com/mikepro-alfamail-ru/domclick)
+
+- Python. Репозиторий с курсовой работой
+
+- SQL (postgres, mysql). Итоговая работа по курсу SQL и получение данных
+
+## Сертификаты Нетологии ##  
+- Python https://github.com/mikepro-alfamail-ru/mikepro-alfamail-ru/blob/main/python.pdf
+
+- Django https://github.com/mikepro-alfamail-ru/mikepro-alfamail-ru/blob/main/django.pdf
+
+- Python в web-разработке https://github.com/mikepro-alfamail-ru/mikepro-alfamail-ru/blob/main/pyweb.pdf
+
+- SQL и получение данных https://github.com/mikepro-alfamail-ru/mikepro-alfamail-ru/blob/main/sql.pdf
+
+- Python https://github.com/mikepro-alfamail-ru/mikepro-alfamail-ru/blob/main/pybasic.pdf
+
+- GIT https://github.com/mikepro-alfamail-ru/mikepro-alfamail-ru/blob/main/git.pdf
