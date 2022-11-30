@@ -5,26 +5,21 @@
 ## Мой стек: ## 
  - Python, PostgreSQL, Git, Docker, Docker-compose, Linux, Windows.
 
-## Вот, что я умею ##
-- Django, drf, docker, github actions, shell (https://github.com/netology-code/netomerch-backend)
+## Вот, что я умею (и я всегда готов учиться новому :wink:) : ##
 
-- FastAPI, Postgresql, Docker, Docker-compose (https://github.com/mikepro-alfamail-ru/flydata)
+- API, requests, tqdm, json, sys (https://github.com/ikultinov/backup-vk-photo-to-yadisk)
 
-- Django, drf (https://github.com/mikepro-alfamail-ru/domclick)
+- Python. Scraping, Parsing, OOP.
 
 - Python. Репозиторий с курсовой работой
 
 - SQL (postgres, mysql). Итоговая работа по курсу SQL и получение данных
 
 ## Сертификаты Нетологии ##  
-- Python https://github.com/mikepro-alfamail-ru/mikepro-alfamail-ru/blob/main/python.pdf
+- Python https://github.com/ikultinov/ikultinov/blob/main/Python.pdf
 
-- Django https://github.com/mikepro-alfamail-ru/mikepro-alfamail-ru/blob/main/django.pdf
+- Python Pro  https://github.com/ikultinov/ikultinov/blob/main/PWP.pdf 
 
-- Python в web-разработке https://github.com/mikepro-alfamail-ru/mikepro-alfamail-ru/blob/main/pyweb.pdf
+- SQL и получение данных https://github.com/ikultinov/ikultinov/blob/main/SQL.pdf
 
-- SQL и получение данных https://github.com/mikepro-alfamail-ru/mikepro-alfamail-ru/blob/main/sql.pdf
-
-- Python https://github.com/mikepro-alfamail-ru/mikepro-alfamail-ru/blob/main/pybasic.pdf
-
-- GIT https://github.com/mikepro-alfamail-ru/mikepro-alfamail-ru/blob/main/git.pdf
+- GIT https://github.com/ikultinov/ikultinov/blob/main/Git.pdf
