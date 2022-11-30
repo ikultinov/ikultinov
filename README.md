@@ -5,7 +5,8 @@
 ## Мой стек: ## 
  - Python, PostgreSQL, Git, Docker, Docker-compose, Linux, Windows.
 
-## Вот, что я умею (и я всегда готов учиться новому :wink:) : ##
+## Вот, что я умею: ##  
+### и я всегда готов учиться новому :wink: ###  
 
 - API, requests, tqdm, json, sys (https://github.com/ikultinov/backup-vk-photo-to-yadisk)
 
