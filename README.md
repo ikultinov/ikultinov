@@ -8,7 +8,7 @@
 ## Вот, что я умею: ##  
 ### и я всегда готов учиться новому :wink: ###  
 
-- API, requests, tqdm, json, sys (https://github.com/ikultinov/backup-vk-photo-to-yadisk)
+- API, requests, tqdm, json (https://github.com/ikultinov/backup-vk-photo-to-yadisk)
 
 - Python. Scraping, Parsing, OOP.
 
